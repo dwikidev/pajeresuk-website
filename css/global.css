@@ -1,0 +1,17 @@
+
+/* ------------Color Variable---------- */
+:root{
+   --color-green-main: #148C54;
+   --color-soft-blue-bg: rgb(214, 232, 236);
+   --color-white-bg: #fff;
+
+   --color-black-text: #10221b;
+   --color-white-text: #ffffff;
+
+   --color-black-navbar-trans : rgba(0, 0, 0, 0.432);
+   --color-white-navbar-trans : rgba(255, 255, 255, 0.947);
+
+   --color-soft-green:rgb(75, 209, 75);
+
+}
+
